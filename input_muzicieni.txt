@@ -1,0 +1,90 @@
+4
+
+1020802030
+Tobi Fernandez
+Romania,Cluj-Napoca,Strada Iasomiei,Nr.25
+0745-204-036
+chitara,vioara
+4034B
+chitara
+Sol
+5015B
+vioara
+Sol
+
+4
+601/03
+639/05
+883/07
+513/14
+2050105105
+Joan Baez
+SUA,New York City -State Island ,Strada Adams
+202-555-0194
+pian
+4999B
+pian
+Do
+
+3
+124/08
+512/05
+684/03
+2050309095
+Bob Dylan
+SUA,Duluth-Minnesota,Strada 5th Ave S, Nr.24
+970-438-1685
+chitara acustica,tobe,chitara bas,harpa,conga,flaut
+1328B
+chitara acustica
+Sol
+1336D
+tobe
+Do
+1452B
+chitara bas
+Sol
+766B
+harpa
+Sol
+1991E
+conga
+Sol
+2101C
+flaut
+Sol
+
+5
+635/06
+110/11
+512/09
+601/09
+381/15
+1020304215
+Sophia Eathen
+Germania,Oberdorla,Nr.55A
++49-205-126-1255
+pian,flaut,violoncel,clarinet,tobe
+2525B
+pian
+Sol
+345E
+flaut
+Sol
+563B
+violoncel
+Do
+486E
+clarinet
+Do
+222D
+tobe
+Do
+
+6
+818/07
+604/02
+112/05
+513/13
+511/13
+631/15
